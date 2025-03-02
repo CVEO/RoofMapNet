@@ -1,5 +1,3 @@
-# RoofMapNet
-This repository contains the official PyTorch implementation of the paper by Jiaqi Wang, Guanzhou Chen et al., "RoofMapNet: Utilizing geometric primitives for depicting planar building roof structures from high-resolution remote sensing imagery."
 ## Pretrained
 The pretrained weights on the RoofMapSet dataset can be downloaded [here](https://drive.google.com/file/d/1x0Ids8n48vT1fUgCG3vXEWladJlgcNo0/view?usp=sharing).
 ## Data
