@@ -1,4 +1,4 @@
-# RoofMapNet: Geometric Primitive-based Planar Roof Structure Reconstruction
+# RoofMapNet: Utilizing geometric primitives for depicting planar building roof structure from high-resolution remote sensing imagery
 
 ## 📖 Introduction
 This paper introduces RoofMapNet, an end-to-end deep learning framework that significantly improves the robustness and accuracy of roof structure extraction in complex scenarios. The framework incorporates an innovative progressive node extraction strategy and an adaptive occlusion-aware module to address challenges such as structural heterogeneity and occlusions. Furthermore, the authors have developed RoofMapSet, a large-scale and diverse remote sensing image dataset, to enable comprehensive evaluation of roof structure extraction performance.
