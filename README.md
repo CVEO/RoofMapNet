@@ -47,7 +47,7 @@ Get started with RoofMapNet in 3 steps:
     The pretrained weights on the RoofMapSet dataset can be downloaded [here](https://drive.google.com/file/d/1x0Ids8n48vT1fUgCG3vXEWladJlgcNo0/view?usp=sharing).
 
 2. Dataset Preparation:
-    Download the dataset from [data]([https://github.com/whu-v2/RoofMapSet](https://drive.google.com/drive/folders/1l9LKZg8z6oarYiERQf6_1KS2MkdFlixZ?usp=sharing) and extract it to the `data` folder. 
+    Download the dataset from [data](https://drive.google.com/drive/folders/1l9LKZg8z6oarYiERQf6_1KS2MkdFlixZ?usp=sharing). and extract it to the `data` folder. 
 
 3. Run the evaluation script:
     ```bash
