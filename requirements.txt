@@ -1,0 +1,9 @@
+docopt==0.6.2
+matplotlib==3.7.4
+numpy==1.23.2
+PyYAML==6.0.1
+ruamel.base==1.0.0
+scipy==1.15.3
+skimage==0.0
+torch==2.0.1
+torch==2.4.1
