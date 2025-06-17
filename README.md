@@ -7,7 +7,7 @@ This paper introduces RoofMapNet, an end-to-end deep learning framework that sig
 [RoofMapNet: Utilizing Geometric Primitives for Depicting Planar Building Roof Structure from High-Resolution Remote Sensing Imagery](https://www.sciencedirect.com/science/article/pii/S1569843225002778).  *International Journal of Applied Earth Observation and Geoinformation, 2025*.
 
 <p align="center">
-  <img src="figures/fig.png" alt="RoofMapNet" width="80%">
+  <img src="fig.png" alt="RoofMapNet" width="80%">
   <br>
   <em>Figure : Architecture of RoofMapNet Framework.</em>
 </p>
