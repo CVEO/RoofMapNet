@@ -51,8 +51,7 @@ Get started with RoofMapNet in 3 steps:
 
 3. Run the evaluation script:
     ```bash
-    python inference.py configs/config.yaml pretrained_models/roofmapnet.pth data
-    output/results
+    python inference.py configs/config.yaml pretrained_models/roofmapnet.pth data output/results
     ```
 4. Calculation of the sAP metric
     ```bash
