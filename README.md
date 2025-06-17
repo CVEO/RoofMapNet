@@ -23,7 +23,7 @@ Get started with RoofMapNet in 3 steps:
   PyTorch
   Numpy
   Matplotlib
-  Skimage
+  Skimage...
   ```
 ### 📥 Installation
 1. Clone the repository:
