@@ -4,8 +4,7 @@
 This paper introduces RoofMapNet, an end-to-end deep learning framework that significantly improves the robustness and accuracy of roof structure extraction in complex scenarios. The framework incorporates an innovative progressive node extraction strategy and an adaptive occlusion-aware module to address challenges such as structural heterogeneity and occlusions. Furthermore, the authors have developed RoofMapSet, a large-scale and diverse remote sensing image dataset, to enable comprehensive evaluation of roof structure extraction performance.
 
 **Paper**:  
-[RoofMapNet: Utilizing Geometric Primitives for Depicting Planar Building Roof Structure from High-Resolution Remote Sensing Imagery](https://www.sciencedirect.com/science/article/pii/S1569843225002778)  
-*International Journal of Applied Earth Observation and Geoinformation 2025*
+[RoofMapNet: Utilizing Geometric Primitives for Depicting Planar Building Roof Structure from High-Resolution Remote Sensing Imagery](https://www.sciencedirect.com/science/article/pii/S1569843225002778).  *International Journal of Applied Earth Observation and Geoinformation 2025*
 
 <p align="center">
   <img src="assets/teaser.png" alt="RoofMapNet" width="80%">
