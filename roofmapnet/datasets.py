@@ -51,21 +51,6 @@ class WireframeDataset(Dataset):
                 name: torch.from_numpy(npz[name]).float()
                 for name in ["jmap", "joff", "lmap"]
             }
-
-            # jmap_array = np.array(target["jmap"][0])
-            # coordinates = np.argwhere(jmap_array == 1)
-            # x = np.arange(128)
-            # y = np.arange(128)
-            # Y, X = np.meshgrid(x, y)
-            # # Compute distances
-            # for center_x, center_y in coordinates:
-            #     distance = np.sqrt((X - center_x) ** 2 + (Y - center_y) ** 2)
-            #     jmap_array += np.exp(-0.5 * (distance / 1) ** 2)
-            # jmap_array[jmap_array <= 0.05] = 0
-            # jmap_array[jmap_array > 1] = 1
-            # target["jmap"][0] = torch.from_numpy(jmap_array)
-
-
             lpos = np.random.permutation(npz["lpos"])[: M.n_stc_posl]
             lneg = np.random.permutation(npz["lneg"])[: M.n_stc_negl]
             npos, nneg = len(lpos), len(lneg)
