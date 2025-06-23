@@ -68,7 +68,8 @@ Get started with RoofMapNet in 3 steps:
 | HT-LCNN        |      69.04      |      74.31       |      76.11       |      53.40      |     84.95      |     86.18     |
 | M-LSD          |      64.72      |      72.30       |      75.58       |      33.70      |     83.65      |     82.66     |
 | ULSD           |      70.90      |      75.20       |      77.00       |      52.60      |     84.16      |     81.93     |
-| **RoofMapNet** |    **73.47**    |    **78.19**     |    **79.99**     |    **57.20**    |   **88.73**    |   **87.40**   |
+| **RoofMapNet (Paper)** |    73.47    |    78.19   |    79.99   |    **57.20**    |   **88.73**    |   87.40   |
+|**RoofMapNet (Current pretrained)** | **73.61** | **78.39** | **80.20** | 56.9 | 88.50 | **88.11**|
 <!-- <span style="color:green">▲</span> | <span style="color:green">▲ +2.57</span> | <span style="color:green">▲ +2.99</span> | <span style="color:green">▲ +2.99</span> | <span style="color:green">▲ +3.80</span> | <span style="color:green">▲ +3.78</span> | <span style="color:green">▲ +1.22</span> | -->
 
 <!-- **Key**:
